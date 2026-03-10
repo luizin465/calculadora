@@ -7,3 +7,7 @@ if operacao == "+":
 
 if operacao == "-":
     print(num1 - num2)
+    
+if operacao == "*":
+    print(num1 * num2)
+
